@@ -1,7 +1,7 @@
 
-# theOtherTeam,
-Rashawn has added a line 
 # theOtherTeam
+This is Ahmed!! Have a lovely wonderful day.
+Rashawn has added a line 
 ##How to use:
 If you wanna use this readMe.md file you have to download it and open it :) Good luck.
 Added Greg's branch to the readme file
